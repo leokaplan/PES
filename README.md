@@ -28,7 +28,7 @@ Para executar o programa, siga os seguintes passos:
 Observações:
 
 	- não é possível salvar ou carregar o lexico
-==============
+
 Link para gerenciamento de versão:
 
 	-https://github.com/leokaplan/PES
